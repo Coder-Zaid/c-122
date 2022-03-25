@@ -59,7 +59,7 @@
         "patterns": ["Which the most trending video game?", "Please tell me the latest Video game!" , 
                     "Do you have any cool Video game?"],
         "responses": ["I have CALL OF DUTY as one of my favourites of all time" , 
-                    "I you like Adventure, you should try out GTA-VICE CITY"]
+                    "If you like Adventure, you should try out GTA-VICE CITY"]
     
     }
 ]
